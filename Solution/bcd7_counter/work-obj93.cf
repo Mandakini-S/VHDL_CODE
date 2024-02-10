@@ -1,0 +1,7 @@
+v 4
+file . "bcd7.vhdl" "3c7953eb889e2c0527e41040f7919b930514729b" "20240210155939.194":
+  entity bcd_seg at 1( 0) + 0 on 17;
+  architecture behaviour of bcd_seg at 11( 156) + 0 on 18;
+file . "bcd7_tb.vhdl" "3b5b1be91d3758bbaec015a5500b22cde2c43af1" "20240210155939.203":
+  entity bcd7_tb at 1( 0) + 0 on 19;
+  architecture behaviour of bcd7_tb at 8( 102) + 0 on 20;
