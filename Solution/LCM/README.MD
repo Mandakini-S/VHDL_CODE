@@ -6,7 +6,9 @@ Write code for a custom processor that calculates Least Common Multiple (LCM) of
 - `lcm.vhdl` : vhdl code for LCM
 - `lcm_tb.vhdl` : vhdl code for testbench
   
-# sFSM for LCM
+# FSM for LCM
+
+![FSM FOR LCM](Images/fsm.png)
 
 # Simulation result
 

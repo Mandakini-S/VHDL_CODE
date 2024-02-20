@@ -8,6 +8,9 @@ Design a sequence detector for the string "1101" that outputs when a one when th
 
 # FSM diagram
 
+![FSM diagram](Images/1011_seq_detector.png)
+
+
 # Simulation result
 
 ![result](Images/Result_from_GTKwave.png)

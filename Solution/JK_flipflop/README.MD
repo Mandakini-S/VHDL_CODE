@@ -8,7 +8,7 @@ Write a VHDL code for a JK flipflop.(2075 back)
 
 # JK flipflop
 
-
+![jk FLIPFLOP](Images/JK_flipflop.png)
 
 # Simulation result
 

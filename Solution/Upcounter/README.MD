@@ -8,6 +8,8 @@ DESIGN A 3-BIT UP COUNTER USING T FLIPFLOP USING STRUCTURAL MODELING IN VHDL. (2
 
 # T flipflop 
 
+![T flipflop](Images/T_flipflop.png)
+
 # Simulation result
 
 ![result](Images/Result_from_GTKwave.png)

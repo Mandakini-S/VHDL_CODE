@@ -7,6 +7,7 @@ Write a VHDL code for a D flipflop.(2079 back)
 - `d_flipflop_tb.vhdl`: vhdl code for testbench
 
 # D Flipflop diagram
+![D_flipflop](Images/D_flipflop.png)
 
 # Simulation result
 

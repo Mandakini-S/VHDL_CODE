@@ -8,6 +8,8 @@ Write VHDL code for custom single purpose processor that calculates the Greatest
 
 # GCD fsm diagram
 
+![FSM diagram](Images/GCD_fsm.png)
+
 # Simulation result
 
 ![result](Images/Result_from_GTKwave.png)
